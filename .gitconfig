@@ -1,0 +1,7 @@
+[user]
+	email = jeremyaunga
+	name = jeremyaunga
+[init]
+	defaultBranch = master
+[push]
+	default = current
